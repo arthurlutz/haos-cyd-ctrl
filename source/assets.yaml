@@ -14,7 +14,8 @@ image:
     id: boot_logo
     resize: 200x200
     type: RGB565
-    use_transparency: true
+    transparency: alpha_channel
+    
     
 font:
   - file: "gfonts://Roboto"
